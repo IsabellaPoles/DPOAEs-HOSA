@@ -1,5 +1,7 @@
 # DPOAEs-HOSA
+A project to analyse DPOAEs after discotheque exposure using bispectrum.
 
+## Abstract
 In this work, **HOSA (Higher Order Spectral Analysis)** is used to analyze **DPOAEs (Distortion Product Otoacoustic Emissions)** with the aim of identifying any slight change in cochlear functionality after exposure to discotheque music.
 
 Otoacoustic Emissions (OAEs) have a great potential to detect the earlier signs of hearing impairment.
